@@ -20,8 +20,8 @@ let calisan2 = {
             sokak:"Yüzbaşılar Sk."
         }
 }
-console.log(calisan.soyad);
-console.log(calisan.numara);
-console.log(calisan.adresi);
-console.log(calisan.adresi.sokak);
-console.log(calisan.adresi.cadde);
+console.log(calisan2.soyad);
+console.log(calisan2.numara);
+console.log(calisan2.adresi);
+console.log(calisan2.adresi.sokak);
+console.log(calisan2.adresi.cadde);
