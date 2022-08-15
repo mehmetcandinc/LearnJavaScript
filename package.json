@@ -1,0 +1,25 @@
+{
+  "name": "JavascriptOgrniyorum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehmetcandinc/LearnJavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehmetcandinc/LearnJavaScript/issues"
+  },
+  "homepage": "https://github.com/mehmetcandinc/LearnJavaScript#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^8.22.0",
+    "typescript": "^4.7.4"
+  }
+}
