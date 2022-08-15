@@ -3,6 +3,6 @@
 
     let array = ["Java","C","C++","Python"];
     array.push("PHP");
-    alert(array);
+    console.log(array);
     /*dizi içerisindeki eleman sayısı
     alert(array.length);*/
